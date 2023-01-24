@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **info@paufish.com**
 
-- 📄 Know about my experiences [I just finished my professional training in fullstack developer](I just finished my professional training in fullstack developer)
+- 📄 Know about my experiences **I just finished my professional training in fullstack developer**
 
-- ⚡ Fun fact **I want to move to Norway and get a change of life**
+- ⚡ Fun fact **I want to move to Norway**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
