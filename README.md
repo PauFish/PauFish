@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pau Siquier</h1>
 <h3 align="center">A passionate junior full stack developer from Spain</h3>
 
-- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [paufish.com](paufish.com)
-
-- 💬 Ask me about **PHP - LARAVEL, MYSQL, JAVASCRIPT, JAVA, C#, XML, JSON, HTML, CSS,**
 
 - 📫 How to reach me **info@paufish.com**
 
 - 📄 Know about my experiences **I just finished my professional training in fullstack developer**
+- 
+-  💬 Ask me about **PHP - LARAVEL, MYSQL, JAVASCRIPT, JAVA, C#, XML, JSON, HTML, CSS,**
+
+- 🌱 I’m currently learning **Laravel**
 
 - ⚡ Fun fact **I want to move to Norway**
 
