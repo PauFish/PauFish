@@ -7,7 +7,7 @@
 - 📫 How to reach me **info@paufish.com**
 
 - 📄 Know about my experiences **I just finished my professional training in fullstack developer**
-- 
+
 -  💬 Ask me about **PHP - LARAVEL, MYSQL, JAVASCRIPT, JAVA, C#, XML, JSON, HTML, CSS,**
 
 - 🌱 I’m currently learning **Laravel**
