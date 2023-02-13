@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pau Siquier del Rey</h1>
+<h1 align="center">Hi 👋, I'm Pau Siquier del Rey | PauFish</h1>
 <h3 align="center">A passionate junior full stack developer from Spain</h3>
 
 
