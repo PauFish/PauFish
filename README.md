@@ -2,7 +2,7 @@
 <h3 align="center">A passionate junior full stack developer from Spain</h3>
 
 
-- 👨‍💻 All of my projects are available at [www.paufish.com](www.paufish.com)
+- 👨‍💻 My portfolio is available at [www.paufish.com](www.paufish.com)
 
 - 📫 How to reach me **info@paufish.com**
 
@@ -17,8 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paufish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paufish" height="30" width="40" /></a>
-<a href="https://fb.com/pausiqrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pausiqrey" height="30" width="40" /></a>
-<a href="https://instagram.com/pau_off_rouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pau_off_rouad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
