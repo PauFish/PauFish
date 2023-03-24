@@ -10,7 +10,7 @@
 
 -  💬 Ask me about **PHP - LARAVEL, MYSQL, JAVASCRIPT, JAVA, C#, XML, JSON, HTML, CSS,**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **More Java, and i ❤️ it!**
 
 - ⚡ Fun fact **I want to move to Norway**
 
