@@ -2,7 +2,7 @@
 <h3 align="center">A passionate junior full stack developer from Spain</h3>
 
 
-- 👨‍💻 My portfolio is available at [www.paufish.com](www.paufish.com)
+- 👨‍💻 My portfolio is available at [www.paufish.es](www.paufish.com)
 
 - 📫 How to reach me **info@paufish.com**
 
