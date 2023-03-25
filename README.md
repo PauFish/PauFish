@@ -4,7 +4,7 @@
 
 - 👨‍💻 My portfolio is available at www.paufish.es
 
-- 📫 How to reach me **info@paufish.com**
+- 📫 How to reach me **info@paufish.es**
 
 - 📄 Know about my experiences **I just finished my professional training in fullstack developer**
 
