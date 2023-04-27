@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences **I just finished my professional training in fullstack developer**
 
--  💬 Ask me about **PHP - LARAVEL, JAVA, MYSQL, JAVASCRIPT, C#, XML, JSON, HTML, CSS,**
+-  💬 Ask me about **PHP - LARAVEL, JAVA, MYSQL, JAVASCRIPT, C#, XML, JSON, HTML5, CSS,**
 
 - 🌱 I’m currently learning **More Java, and i ❤️ it!**
 
