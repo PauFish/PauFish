@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **More Java, and i ❤️ it!**
 
-- ⚡ Fun fact **I want to move to Iceland, Mallorca summer is too hot 🌡️🌡️🌡️**
+- ⚡ Fun fact **I move to Iceland, Mallorca (Spain) summer is too hot 🌡️🌡️🌡️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
